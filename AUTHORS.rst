@@ -22,3 +22,4 @@ Contributors
 * Dargan Frierson <dargan@atmos.washington.edu>
 * Jonathan Mitchell <jonmitch@ucla.edu>
 * Suhas D L <suhasd@iisc.ac.in>
+* Edmund Derby <edmund.derby@physics.ox.ac.uk>
