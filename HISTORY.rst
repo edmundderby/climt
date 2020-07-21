@@ -182,6 +182,7 @@ Latest
 * Heating rate for RRTMG top-of-atmosphere is no longer manually set to zero
 * Components no longer accept constants during initialisation. All constant handling
   is done internally.
+* IceSheet component now changes shortwave and near_infrared albedos.
 
 v.0.9
 ------
